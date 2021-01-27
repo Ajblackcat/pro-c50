@@ -1,0 +1,20 @@
+h2{
+ color:red;   
+}
+*{
+ border:solid   
+}
+.header{
+ background-color: cyan; 
+display: flex; 
+justify-content:flex-start;  
+}
+.content{
+background-color: yellow;  
+text-align:center;
+}
+.game{
+background-color: yellowgreen; 
+display: flex;
+justify-content: space-around;   
+}
